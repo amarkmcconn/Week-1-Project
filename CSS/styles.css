@@ -47,3 +47,7 @@ h5 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: larger;
 }
+
+.important {
+  color: blue;
+}
