@@ -84,12 +84,14 @@ h6 {
 
 li {
   font-style: italic;
-  font-family: fantasy;
-  font-size: larger;
+  font-family: monospace;
+  font-size: ;
 }
 
 P {
   font-family: monospace;
+  font-style: oblique;
+  font-size: larger;
 }
 
 .para {
