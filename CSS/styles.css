@@ -4,13 +4,6 @@
   background: grey;
   width: 750px;
   padding: 1rem;
-  margin: 10px;
-}
-
-.card_image {
-  margin: auto;
-  max-width: 100%;
-  max-height: 100%;
 }
 
 .card_image1 {
@@ -48,7 +41,7 @@ h5 {
     border-width: 5px;
     background-color: grey;
     padding: 10px;
-    margin: 10px;
+    margin: auto;
 }
 
 .box1 {
@@ -58,7 +51,7 @@ h5 {
   background-color: grey;
   margin-bottom: 5px;
   padding: 10px;
-  margin: 10px;
+  margin: auto;
 }
 
 .highlight {
@@ -72,6 +65,7 @@ h5 {
 li {
   font-style: italic;
   font-family: fantasy;
+  font-size: x-large;
 }
 
 
