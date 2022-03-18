@@ -4,6 +4,7 @@
   background: grey;
   width: 750px;
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .card1 {
@@ -12,6 +13,7 @@
   background: grey;
   width: 900px;
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .card_image1 {
@@ -25,8 +27,7 @@ body {
 }
 
 h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-  background-color: cornsilk;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
   font-style: oblique;
 }
@@ -62,6 +63,7 @@ h6 {
     background-color: grey;
     padding: 10px;
     margin: auto;
+    margin-bottom: 2rem;
 }
 
 .box1 {
@@ -72,10 +74,19 @@ h6 {
   margin-bottom: 5px;
   padding: 10px;
   margin: auto;
+  margin-bottom: 2rem;
 }
 
 .highlight {
   color: blue;
+}
+
+.highlight1 {
+  color: red;
+}
+
+.highlight2 {
+  color: whitesmoke;
 }
 
 .float {
