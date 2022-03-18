@@ -51,3 +51,7 @@ h5 {
 .important {
   color: blue;
 }
+
+.float {
+  float: center;
+}
