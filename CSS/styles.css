@@ -1,4 +1,5 @@
 .card {
+  margin: auto;
   background: cornsilk;
   width: 450px;
   padding: 1rem;
@@ -6,6 +7,7 @@
 }
 
 .card_image {
+  margin: auto;
   max-width: 100%;
   max-height: 100%;
 }
@@ -30,7 +32,7 @@ h2 {
 }
 
 .box {
-    width: 50%;
+    width: 10%;
     border: black;
     border-width: 20px;
     background-color: grey;
