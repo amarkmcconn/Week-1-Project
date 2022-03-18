@@ -102,3 +102,21 @@ P {
   background: transparent;
   border-width: 3px;
 }
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+}
+
+a:hover {
+  color: rgb(165, 108, 42);
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
