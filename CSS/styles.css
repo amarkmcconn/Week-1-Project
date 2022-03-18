@@ -1,7 +1,8 @@
 .card {
-  background: darkgreen;
+  background: cornsilk;
   width: 450px;
   padding: 1rem;
+  margin: 10px;
 }
 
 .card_image {
@@ -10,12 +11,24 @@
 }
 
 body {
-  background-color: gray;
+  background-color: rgb(119, 116, 103);
 }
 
-h1 
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: cornsilk;
+}
 
 h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: italic;
 }
+
+.box {
+    width: 50%;
+    border: black;
+    border-width: 20px;
+    background-color: grey;
+    padding: 10px;
+    margin: 10px;
+  }
