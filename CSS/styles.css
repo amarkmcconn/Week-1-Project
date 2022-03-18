@@ -29,10 +29,9 @@ h1 {
 h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: italic;
-}
 
 .box {
-    width: 10%;
+    width: 30%;
     border: black;
     border-width: 20px;
     background-color: grey;
