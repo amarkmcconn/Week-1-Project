@@ -1,7 +1,8 @@
 .card {
   margin: auto;
-  background: cornsilk;
-  width: 450px;
+  border: solid black;
+  background: grey;
+  width: 750px;
   padding: 1rem;
   margin: 10px;
 }
@@ -31,15 +32,6 @@ h2 {
   font-style: italic;
 }
 
-.box {
-    width: 30%;
-    border: black;
-    border-width: 20px;
-    background-color: grey;
-    padding: 10px;
-    margin: 10px;
-}
-
 h4 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: larger;
@@ -48,6 +40,25 @@ h4 {
 h5 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: larger;
+}
+
+.box {
+    width: 30%;
+    border: solid black;
+    border-width: 5px;
+    background-color: grey;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 5px;
+  background-color: darkgray;
+  margin-bottom: 5px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .highlight {
@@ -62,3 +73,5 @@ li {
   font-style: italic;
   font-family: fantasy;
 }
+
+
