@@ -37,6 +37,10 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 h4 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: larger;
@@ -52,7 +56,7 @@ h6 {
 }
 
 .box {
-    width: 30%;
+    width: 40%;
     border: solid black;
     border-width: 5px;
     background-color: grey;
@@ -81,7 +85,7 @@ h6 {
 li {
   font-style: italic;
   font-family: fantasy;
-  font-size: large;
+  font-size: larger;
 }
 
 P {
