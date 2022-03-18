@@ -10,6 +10,11 @@
   max-height: 100%;
 }
 
+.card_image1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 body {
   background-color: rgb(119, 116, 103);
 }
@@ -32,3 +37,4 @@ h2 {
     padding: 10px;
     margin: 10px;
   }
+
