@@ -55,3 +55,8 @@ h5 {
 .float {
   float: center;
 }
+
+li {
+  font-style: italic;
+  font-family: fantasy;
+}
