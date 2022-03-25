@@ -1,6 +1,6 @@
 # _Portfolio Project_
 #### By _**Mark McConnell**_
-#### _A HTML website showing required HTML tags, custom css style sheet, and clean polish code as outlined in the week 1 project parameters. A link the the website can be found below:_
+#### _A HTML website showing required HTML tags, custom css style sheet, and clean polish code as outlined in the week 1 project parameters. A link to the website can be found below:_
 _https://amarkmcconn.github.io/Week-1-Project/_
 ## Technologies Used
 * HTML
