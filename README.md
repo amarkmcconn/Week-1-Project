@@ -13,7 +13,9 @@ _This is a Portfolio website highlighting current projects created by me. The po
 * _Rename this repository to whatever suits your fancy. Open up the repository you just forked. Click settings and first option will be avaible to rename it!_
 * _Clone the repository to your computer. Right Click on your desktop and click bash here and confirm you are in the deskop directory. use $ git clone https://github.com/amarkmcconn/Week-1-Project._
 * _After cloning the repository to your desktop. It will appear on your desktop as a folder named Week-1-Project. Click on the folder and you will have access to the whole project folder._
-* _After opening the Week-1-Project folder, there will be a file named index.html (you will the google chrome emblem and file name index). Click on the file name index and it will open my website in your internet browser. 
+* _After opening the Week-1-Project folder, there will be a file named index.html (you will the google chrome emblem and file name index). Click on the file name index and it will open my website in your internet browser._
+
+![image](https://user-images.githubusercontent.com/101524368/170919333-2d6aab80-6197-4e2e-9aa8-d9d2c1ed0f06.png)
 
    
 ## Known Bugs
